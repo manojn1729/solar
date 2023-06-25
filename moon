@@ -1,1 +1,2 @@
-I am moon
+I am Moon.
+Natural satilite of Earth.
